@@ -11,7 +11,7 @@ After downloading this repo, cd into the main folder and run:
 python3 rotating_figures.py
 ```
 The result should be a gui showing this dynamic display:
-<img src="https://user-images.githubusercontent.com/43306816/205478928-92b978d3-d6c7-4537-9ec3-91b3a416be57.mp4" width="300"></img>
+https://user-images.githubusercontent.com/43306816/205478928-92b978d3-d6c7-4537-9ec3-91b3a416be57.mp4
 
 The other script simply displays the rotating disc (without the square):
 ```
