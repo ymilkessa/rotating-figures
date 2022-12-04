@@ -54,8 +54,8 @@ def get_display(radius, phi):
 # def main():
 
 delta_phi = pi/180
-radius = 17
-interval = 80
+radius = 13
+interval = 50
 
 display_params = {
     "current_angle": 0,
@@ -65,7 +65,7 @@ display_params = {
 def main():
     root = tk.Tk()
     root.configure(bg="black")
-    label = tk.Label(root, text=display_params["string_to_display"], bg="black", fg="white", font="Courier")
+    label = tk.Label(root, text=display_params["string_to_display"], bg="black", fg="white", font=("Courier", 9))
     label.pack()
 
     def change_text():
