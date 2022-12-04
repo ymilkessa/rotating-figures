@@ -6,6 +6,9 @@ Simple displays uing only changing ascii characters in a python tkinter gui.
 The characters used represent different levels of illumination and are selected from `.,-~:;=!*#$@`,
 which are the same characters used by a guy called Andy Sloane [in this post](https://www.a1k0n.net/2011/07/20/donut-math.html).
 
+The light source is somewhere to the left of the viewer, 45 degrees from the normal to the screen. 
+(Hence the point of maximum illumination is when the normal of the simulated surface is at 22.5 degrees from the normal of the screen.)
+
 ## How to run
 
 After downloading this repo, cd into the main folder and run:
