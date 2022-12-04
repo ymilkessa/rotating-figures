@@ -11,6 +11,7 @@ After downloading this repo, cd into the main folder and run:
 python3 rotating_figures.py
 ```
 The result should be a gui showing this dynamic display:
+
 ![rotating_figures_demo_gif](https://user-images.githubusercontent.com/43306816/205479189-9c8d04d8-d571-4ee2-9629-5425a5bd0de9.gif)
 
 
