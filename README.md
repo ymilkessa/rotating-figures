@@ -1,4 +1,4 @@
-# Simulating Projection on Rotating Surface
+# Reflection From Flat Surfaces
 
 <img src="https://github.com/ymilkessa/rotating-figures/blob/main/perspective_projection_demo.gif" width=500 />
 
